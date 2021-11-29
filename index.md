@@ -15,6 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+<iframe title="Participantes en huelgas" aria-label="Grouped Bars" id="datawrapper-chart-9T51r" src="https://datawrapper.dwcdn.net/9T51r/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="338"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
 - Bulleted
 - List
 
