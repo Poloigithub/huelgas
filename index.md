@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/Poloigithub/huelgas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<figure class="video_container">
+<iframe title="Participantes en huelgas" aria-label="Grouped Bars" id="datawrapper-chart-9T51r" src="https://datawrapper.dwcdn.net/9T51r/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="338"></iframe></figure>
 
 ### Markdown
 
